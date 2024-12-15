@@ -1,4 +1,4 @@
-# Leetcode
+# Programming Interviews
 ## Purpose: Write elegant and fast algorithm based on performance of Data Structures, Time complexity and Tests of edge & corner cases 
 
 - The ability to rigorously formulate real-world problems.
@@ -8,4 +8,9 @@
 of your solution
 
 ## Solution: Brute-force -> Analyze -> Improve 
- * Designed solutions are expected to be a detailed solution on a whiteboard or paper
+ * Designed solutions are expected to be a detailed solution on a whiteboard or paper: Think out loud and use patterns
+ * Skills: Learn to COMMUINCATE a complex idea to the team with concrete examples, Passion for learning new stack, grasp DSA and System Design
+     
+      1. Focus on to-level algorithm by using abstraction, use libraries and TODO comments for functions not yet implemented
+      2. Write unit tests: Assume valid inputs and test corner/edge cases [nonnegative integers, empty array, one element, possible overflow ...]
+      3. Techniques: Sorting, Recursion, Divide-and-Conquer, Dynamic Programming, Greedy algorithms, Invariants
