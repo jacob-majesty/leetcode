@@ -1,4 +1,12 @@
 # Programming Interviews
+## Resources 
+ *  Our favorite Java reference is Peter Sestoft's "Java Precisely".
+ *  The definitive book for Java is "Java: TheCompleteReference" by Oracle 
+ *  Joshua Bloch's "Effective Java" 
+ *   For design patterns, we like "Head First Design Patterns" by Freeman et al
+ *   Tony Bevis "Java Design Pattern Essentials" 
+ *   "Java Concurrency in Practice", by Goetz et al. 
+ *   Elements of Programming Interviews in Java by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 ## Purpose: Write elegant and fast algorithm based on performance of Data Structures, Time complexity and Tests of edge & corner cases 
 
 - The ability to rigorously formulate real-world problems.
