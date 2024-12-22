@@ -21,4 +21,5 @@ of your solution
      
       1. Focus on to-level algorithm by using abstraction, use libraries and TODO comments for functions not yet implemented
       2. Write unit tests: Assume valid inputs and test corner/edge cases [nonnegative integers, empty array, one element, possible overflow ...]
-      3. Techniques: Sorting, Recursion, Divide-and-Conquer, Dynamic Programming, Greedy algorithms, Invariants
+      3. Techniques: Sorting, Recursion, Divide-and-Conquer, Binary Search, 2 Pointers techniques | Windows sliding, Dynamic Programming, Greedy algorithms, Invariants
+      4. Links: https://medium.com/enjoy-algorithm/popular-problem-solving-approaches-in-data-structures-and-algorithms-6b4d30a0823d |  https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
